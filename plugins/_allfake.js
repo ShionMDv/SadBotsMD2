@@ -26,7 +26,7 @@ handler.all = async function (m) {
 		global.kontak2 = [
          [owner[0], await conn.getName(owner[0] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'fahriadison12@gmail.com', true],
          [owner[1], await conn.getName(owner[1] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'fahriadison12@gmail.com', true], // Kalo mau di tambah tinggal copy 1baris ini di tempel di bawahnya trs di edit dikit!
-        ]
+         [owner[2], await conn.getName(owner[2] + '@s.whatsapp.net'), 'ᴅᴇᴠᴇʟᴏᴩᴇʀ ʙᴏᴛ', 'alvinsutanto15@gmail.com', true],
         
 		// ucapan ini mah
 		global.ucapan = ucapan()
@@ -39,7 +39,7 @@ handler.all = async function (m) {
 		global.adReply = {
 			contextInfo: {
 				forwardingScore: 9999,
-				//isForwarded: true, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
+				//isForwarded: false, // ini biar ada tulisannya diteruskan berkali-kali, jika ingin di hilangkan ganti true menjadi false
 				externalAdReply: { // Bagian ini sesuka kalian berkreasi :'v
                     showAdAttribution: true,
 					title: global.ucapan,
