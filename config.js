@@ -47,7 +47,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 Vყɳɳ_Oϝƈ ㄖ⁩ 」'
+global.author = '                「 Vყɳɳ_Oϝƈ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -86,7 +86,7 @@ global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://teleg
 /*============== NOMOR ==============*/
 global.nomorbot = '6285848453523'
 global.nomorown = '6287734910547'
-global.namebot = '⁩𝙎𝘼𝘿 𝕭𝕺𝕿'
+global.namebot = 'ꜱᴀᴅ⁩ 𝕭𝕺𝕿'
 global.nameown = 'ᴠɪɴᴢ-ᴏꜰᴄ👑'
 
 /*=========== FAKE SIZE ===========*/
