@@ -38,7 +38,7 @@ global.wm = '                「 Vყɳɳ_Oϝƈ 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - ᴠɪɴᴢᴢ👑˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ 𝙎𝘼𝘿 𝕭𝕺𝕿'
+global.wm3 = '⫹⫺ νιηzвσтz_σƒ¢'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
