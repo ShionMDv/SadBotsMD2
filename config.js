@@ -86,7 +86,7 @@ global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://teleg
 /*============== NOMOR ==============*/
 global.nomorbot = '6285848453523'
 global.nomorown = '6287734910547'
-global.namebot = 'ꜱᴀᴅ⁩ 𝕭𝕺𝕿'
+global.namebot = 'ꜱᴀᴅ⁩ вσт'
 global.nameown = 'ᴠɪɴᴢ-ᴏꜰᴄ👑'
 
 /*=========== FAKE SIZE ===========*/
