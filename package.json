@@ -1,5 +1,5 @@
 {
-    "name": "ᴅᴀɴɪʙᴏᴛᴢ_ᴏғᴄ",
+    "name": "νιηzвσтz_σƒ¢",
     "version": "1.0.5",
     "description": "Simple WhatsApp Bot ESM",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/FahriAdison/Sad-Multi-Device",
+    "homepage": "https://github.com/Ayane45121/SadBot",
     "author": {
         "name": "Papah-Chan"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/FahriAdison/Sad-Multi-Device.git"
+        "url": "git+https://github.com/Ayane45121/SadBot.git"
     },
     "bugs": {
-        "url": "https://github.com/FahriAdison/Sad-Multi-Device/issues"
+        "url": "https://github.com/Ayane45121/SadBot/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
