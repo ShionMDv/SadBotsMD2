@@ -38,6 +38,7 @@ let tqto = `╭──〔  THANKS TO  〕─⬣
 ⫹⫺ ᎪᏆNᎬᎬ
 ⫹⫺ FᎪᎻᎡᏆ
 ⫹⫺ ᎠᎪNᏆ ᎾFFᏆᏟᏆᎪᏞ
+⫹⫺ ᴠɪɴɴ☝️😅
 ╰─────────────⬣
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
