@@ -5,10 +5,10 @@ let pepe = pp ? await (await fetch(pp)).buffer() : Buffer.alloc(0)
 let str = ` ${conn.getName(m.sender)} Want Support Bot?
 *PAYMENT ↓*
 _*Pulsa/Pulse(XL):*_ 087734910547
-_*Dana/Gopay:*_ 087734910547
+_*Dana:*_ 087734910547
 Setelah melakukan donasi kirim bukti pembayaran ke owner,Dengan melakukan donasi,kamu telah mensupport bot ini agar on 24 jam dan fast respon
 `
-conn.sendHydrated(m.chat, str, wm, pepe, 'https://github.com/Ayane45121/', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+conn.sendHydrated(m.chat, str, wm, pepe, 'https://github.com/ShionMDv/', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['𝙼𝙴𝙽𝚄', '/menu']
 ], m)
 
