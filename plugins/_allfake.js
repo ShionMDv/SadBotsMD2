@@ -45,7 +45,7 @@ handler.all = async function (m) {
 					title: global.ucapan,
 					body: wm,
 					mediaUrl: sgc,
-					description: 'simple bot esm',
+					description: 'Bot Sedang Perkembangan',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(urls)).buffer(),
 					sourceUrl: "https://github.com/FahriAdison",					
@@ -57,7 +57,7 @@ handler.all = async function (m) {
             mediaUrl: "https://Instagram.com/_alv.stn",
             mediaType: "VIDEO",
             description: "https://Instagram.com/_alv.stn", 
-            title: 'Simple Bot Esm',
+            title: 'Bot Sdg Perkembangan',
             body: wm,
             thumbnailUrl: pp,
             sourceUrl: sgc
