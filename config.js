@@ -5,6 +5,7 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['+62 877-3491-0547'],
+  ['+62 817-7491-6559'],
   ['+62 877-3491-0547', 'V̲I̲n̲z̲z̲ ̲Oϝƈ💫', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -84,7 +85,7 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 global.bg = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://telegra.ph/file/ae610571b62b5ab876e9c.jpg', 'https://telegra.ph/file/cc8255d5b989eef587af2.jpg','https://telegra.ph/file/30d2e7375996abd9cfee3.jpg']
 /*============== NOMOR ==============*/
-global.nomorbot = '6285848453523'
+global.nomorbot = '6289652490135'
 global.nomorown = '6287734910547'
 global.namebot = 'ꜱᴀᴅ⁩ вσт'
 global.nameown = 'ᴠɪɴᴢ-ᴏꜰᴄ👑'
