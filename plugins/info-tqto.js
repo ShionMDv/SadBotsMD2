@@ -38,15 +38,16 @@ let tqto = `╭──〔  THANKS TO  〕─⬣
 ⫹⫺ ᎪᏆNᎬᎬ
 ⫹⫺ FᎪᎻᎡᏆ
 ⫹⫺ ᎠᎪNᏆ ᎾFFᏆᏟᏆᎪᏞ
-⫹⫺ ᴠɪɴɴ☝️😅
+⫹⫺ VINZ
+⫹⫺ FANGZ
 ╰─────────────⬣
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
     mediaUrl: "https://Instagram.com/bot_whangsaf",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/bot_whangsaf", 
+    description: "https://Instagram.com/_alv.stn", 
     title: 'Simple Bot Esm',
-    body: wm,
+    body: wm3,
     thumbnail: thumb,
     sourceUrl: sgc
 }
