@@ -48,7 +48,7 @@ handler.all = async function (m) {
 					description: 'Bot Sedang Perkembangan',
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(urls)).buffer(),
-					sourceUrl: "https://github.com/ShionMDv",					
+					sourceUrl: "https://github.com",					
 				}
 			}
 		}
